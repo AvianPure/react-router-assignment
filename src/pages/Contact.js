@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import Card from 'react-bootstrap/Card';
-import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
-import Alert from 'react-bootstrap/Alert';
 
 const Contact = () => {
     return <><h1>Contact Me</h1>
